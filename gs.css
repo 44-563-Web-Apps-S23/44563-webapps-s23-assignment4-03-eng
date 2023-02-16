@@ -44,4 +44,17 @@
         border-color:darkred;
         border: 1px solid;
     }
+
+    .MARY:hover {
+        font-size: medium;
+        color: coral;
+        text-shadow: 0 0 10px coral;
+        border-style: dashed;
+        }
+    .OLLIVANT:hover {
+    font-size: medium;
+    color: blueviolet;
+    text-shadow: 0 0 10px blueviolet;
+    border-style: dashed;
+    }
     
