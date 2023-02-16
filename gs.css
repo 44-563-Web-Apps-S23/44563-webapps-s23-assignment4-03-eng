@@ -1,0 +1,27 @@
+.name{
+    color:green;
+}
+.speech
+{
+    color:black;
+    font-size:medium;
+    font-family: 'Courier New', Courier, monospace; }
+.direction{
+        font-family: 'Courier New', Courier, monospace;
+        color:red;font-size:small;
+        background-color: aqua; }
+
+    .direction:hover{
+        color:blue;
+        font:small;
+        background-color: pink;
+    }
+    .MARY{
+        font-style:bold;
+        color:coral;
+    }
+    .OLLIVANT{
+        font-size:bold;
+        color:blueviolet;
+    }
+    
